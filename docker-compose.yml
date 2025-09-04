@@ -42,3 +42,6 @@ networks:
 volumes:
   jenkins-docker-certs:
   jenkins-data:
+
+
+# @JenkinsMultivac1992!
